@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LevelShifter
+D SparkFun Logic Level Converter - Bi-Directional clone
+K 3.3v,logic,5v,converter
+F https://www.sparkfun.com/products/12009
+$ENDCMP
+#
+$CMP MPR121
+D MPR121 Capactive Touch Sensor Breakout clone from Sparkfun.
+K capacitive,3.3v,mpr121
+F https://www.sparkfun.com/products/retired/9695
+$ENDCMP
+#
+$CMP Pad
+D A rounded square solder pad used as a capacitive button (sized as a keyboard key)
+$ENDCMP
+#
+$CMP R_POT
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP VoltageRegulatorModule
+D 5V -> 3.3V Generic Voltage Regulator Module
+$ENDCMP
+#
+$CMP oled_screen
+D oled screen I²C 128x32 module
+K oled,display,i2c
+$ENDCMP
+#
+$CMP pro_micro
+D Sparkfun pro micro clone
+K pro,micro,arduino,clone,sparkfun
+F https://www.sparkfun.com/products/12640
+$ENDCMP
+#
+#End Doc Library
