@@ -21,14 +21,14 @@ Can also be used as a keyboard / mouse / xbox360 controller...
 
 ## Examples
 LMMS - Open Source Music Software - https://lmms.io/download#windows
-![LMMS](/doc/images/lmms_small.png) 
+![LMMS](/doc/images/lmms_small.png)   
 
 PatchBox OS - Raspberry Pi synthetiser - https://blokas.io/modep/
 ![PatchBox OS](/doc/images/patchbox_os.jpg) 
 
 # Serial Midi
 Add controls / sound generators using open sources modules
-    ![m1d1_36 Photo](/doc/images/m1d1_36_serial.JPG) 
+    ![m1d1_36 Photo](/doc/images/m1d1_36_serial.jpg) 
     
 ## Compatibles Modules
 * **µsini zx** [TO BE PUBLISHED] : a AY-3-8910 sound generator (used in zx-spectrum)   
