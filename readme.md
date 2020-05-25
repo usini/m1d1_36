@@ -20,7 +20,7 @@ Compatible with any music software
 Can also be used as a keyboard / mouse / xbox360 controller...
 
 ## Examples
-LMMS - Open Source Music Software - https://lmms.io/download#windows
+LMMS - Open Source Music Software - https://lmms.io/download#windows   
 ![LMMS](/docs/images/lmms_small.png)   
 
 PatchBox OS - Raspberry Pi synthetiser - https://blokas.io/modep/
