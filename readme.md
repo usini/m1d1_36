@@ -10,7 +10,7 @@ Make music on a PC or with open source sound modules.
 Based Sparkfun Pro Micro (atmega32u4)
 https://www.sparkfun.com/products/12640
 
-![m1d1_36 Photo](/doc/images/m1d1_36.JPG)
+![m1d1_36 Photo](/docs/images/m1d1_36.JPG)
 
 # Demo
 
@@ -21,14 +21,14 @@ Can also be used as a keyboard / mouse / xbox360 controller...
 
 ## Examples
 LMMS - Open Source Music Software - https://lmms.io/download#windows
-![LMMS](/doc/images/lmms_small.png)   
+![LMMS](/docs/images/lmms_small.png)   
 
 PatchBox OS - Raspberry Pi synthetiser - https://blokas.io/modep/
-![PatchBox OS](/doc/images/patchbox_os.jpg) 
+![PatchBox OS](/docs/images/patchbox_os.jpg) 
 
 # Serial Midi
 Add controls / sound generators using open sources modules
-    ![m1d1_36 Photo](/doc/images/m1d1_36_serial.jpg) 
+    ![m1d1_36 Photo](/docs/images/m1d1_36_serial.jpg) 
     
 ## Compatibles Modules
 * **µsini zx** [TO BE PUBLISHED] : a AY-3-8910 sound generator (used in zx-spectrum)   
@@ -67,19 +67,19 @@ Each times a pad / buttons is pressed or a potentiometers is moved, theses funct
 * buttonsEvent()
 * MPREvent()
 
- ![m1d1_36 Event based system](/doc/images/event_based.png) 
+ ![m1d1_36 Event based system](/docs/images/event_based.png) 
 
 Developer documentation : LINK
 
 # Easy to customize schematics
 
 noob friendly schematics for Kicad.  
- ![m1d1_36 Schematics](/doc/images/schematic_m1d1_36.png) 
+ ![m1d1_36 Schematics](/docs/images/schematic_m1d1_36.png) 
 
- ![PCB](/doc/images/pcb_m1d1_36.png) 
+ ![PCB](/docs/images/pcb_m1d1_36.png) 
 
 ## 3D models
-![m1d1_36 3D Models](/doc/images/kicad_3D_models_m1d1_36.png) 
+![m1d1_36 3D Models](/docs/images/kicad_3D_models_m1d1_36.png) 
 
 * pro_micro.step - **Andrew_Witham** - https://grabcad.com/library/arduino-pro-micro-1
 * stepdown.STEP - **Hasanain Shuja**   - https://grabcad.com/library/   dd0503ma-ultra-mini-dc-3-7v-4-5v-5v-to-3-3v-dc-dc-step-down-converter-buck-module-2    
