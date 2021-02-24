@@ -1,7 +1,0 @@
-pro_micro.step             - Andrew_Witham    - https://grabcad.com/library/arduino-pro-micro-1 - 
-stepdown.STEP              - Hasanain Shuja   - https://grabcad.com/library/dd0503ma-ultra-mini-dc-3-7v-4-5v-5v-to-3-3v-dc-dc-step-down-converter-buck-module-2
-oled.step                  - CDMX ELECTRONICA - https://grabcad.com/library/display-oled-ssd1306-de-0-96-1
-mpr121.step                - SPARKFUN         - https://www.sparkfun.com/products/retired/9695
-logic_level.step           - SPARKFUN         - https://www.sparkfun.com/products/12009
-12mmx12mm Without cap.step - Nilton           - https://grabcad.com/library/12mm-button-without-cap-with-round-square-cap-1
-pot.step                   - Mirko Ragni      - https://grabcad.com/library/47k-potentiometer-1
