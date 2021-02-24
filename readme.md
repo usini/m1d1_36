@@ -1,6 +1,8 @@
 µsini M1D1_36
 -------------
-An Open Source Midi controller with **36 pads** in a **compact body**.  
+An Open Source Midi controller with **36 pads** in a **compact body**.
+
+Documentation en français : https://usini.github.io/m1d1_36/
 
 Make music on a PC or with open source sound modules.
 * 36 capacitives pads  
