@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name m1d1_36)(type Legacy)(uri ${KIPRJMOD}/lib/m1d1_36.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "m1d1_36")(type "Legacy")(uri "${KIPRJMOD}/lib/m1d1_36.lib")(options "")(descr ""))
+  (lib (name "m1d1_36-rescue")(type "KiCad")(uri "${KIPRJMOD}/m1d1_36-rescue.kicad_sym")(options "")(descr ""))
 )
